@@ -1,4 +1,4 @@
-# Pandemic Tracker
+# Pandemix
 
 > A contact tracing application to avoid infected zones near you.
 
