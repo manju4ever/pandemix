@@ -18,10 +18,6 @@ The challenge for Indian and Karnataka Government is, tracking the people who ca
 
 An application called 'Pandemic Tracker' is developed. The Goal is to track the people who were in contact with the COVID-19 positive tested person in the past 14 days.
 
-## Application Screens
-
-<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Screen1.jpg" width="100" /> <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/register.jpeg" width="100" /> <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/verification.jpeg" width="100" /> <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/login.jpeg" width="100" /> <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/maps.jpeg" width="110" /> <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/no-of-affected.jpeg" width="120" /> <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/heatmap.jpeg" width="108" /> <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/app-notifications.jpeg" width="110" />
-
 ## Application Workflow
 
 - User Downloads the Application.
@@ -37,10 +33,6 @@ An application called 'Pandemic Tracker' is developed. The Goal is to track the 
 - The same report will be sent to concerned government authority.
 - The Web application is being developed by the team, only for government officials to keep track of the COVID-19 positive people and all the possible victims in real-time.
   - The officials can filter the data according to State/ City/ Postal Code. (This is under development)
-
-## Workflow Screens.
-
-<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Pandemic_UI.PNG" width="400" />
 
 ## Advantages
 
